@@ -9,8 +9,8 @@
 | ------------------------- | --------------------------------------------------- | --------------------------- |
 | [release-action]          | ![GitHub release][release-action-version]           | ![tests][release-action-ci] |
 | [simple-icons]            | ![npm][si-npm] ![packagist][si-packagist]           | ![tests][si-ci]             |
-| [simple-icons-cdn]        |                                                     | ![si-cdn-ci]                |
 | [simple-icons-font]       | ![npm][si-font-npm] ![packagist][si-font-packagist] | ![tests][si-font-ci]        |
+| [simple-icons-cdn]        |                                                     | ![si-cdn-ci]                |
 | [simple-icons-website-rs] |                                                     | ![tests][si-website-ci]     |
 
 [release-action-ci]: https://img.shields.io/github/actions/workflow/status/simple-icons/release-action/verify.yml?branch=master&logo=github&label=tests
