@@ -13,7 +13,7 @@
 | [simple-icons-cdn]        |                                                     | ![si-cdn-ci]                |
 | [simple-icons-website-rs] |                                                     | ![tests][si-website-ci]     |
 
-[release-action-ci]: https://img.shields.io/github/actions/workflow/status/simple-icons/release-action/verify.yml?branch=master&logo=github&label=tests
+[release-action-ci]: https://img.shields.io/github/actions/workflow/status/simple-icons/release-action/verify.yml?branch=main&logo=github&label=tests
 [release-action-version]: https://img.shields.io/github/v/release/simple-icons/release-action?logo=githubactions&logoColor=white&label=release
 [release-action]: https://github.com/simple-icons/release-action
 [si-cdn-ci]: https://img.shields.io/website?url=https%3A%2F%2Fcdn.simpleicons.org&logo=simpleicons&logoColor=white&label=CDN
